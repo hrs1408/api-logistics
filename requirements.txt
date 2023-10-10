@@ -4,7 +4,6 @@ pydantic==1.10.5
 PyJWT==2.6.0
 SQLAlchemy==2.0.4
 starlette==0.22.0
-mysql-connector-python==8.0.32
 pydantic[email]
 fastapi_pagination==0.11.4
 py-automapper==1.2.3
