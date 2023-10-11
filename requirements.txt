@@ -1,3 +1,4 @@
+pip install --upgrade pip
 fastapi==0.89.1
 fastapi_responseschema==2.0.0
 passlib==1.7.4
